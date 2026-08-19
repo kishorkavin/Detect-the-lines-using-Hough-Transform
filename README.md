@@ -46,9 +46,9 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 
 ## Program 
 ##  Developed By
-
-* **Name:** Dinesh karthik R
-* **Register No:** 212224230068
+ 
+* **Name:** DURAIARASAN M
+* **Register No:** 212224230071
 
 ### Input image and grayscale image
 ```
